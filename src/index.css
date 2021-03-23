@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+=======
+>>>>>>> abbe3da91fc96de43745ce84cd0360c387c65395
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+<<<<<<< HEAD
+=======
+  background-color: #f1f1f1;
+>>>>>>> abbe3da91fc96de43745ce84cd0360c387c65395
 }
