@@ -1,0 +1,3 @@
+Features
+1. Spreadsheet creation from within the app
+2. Analytics reporting
