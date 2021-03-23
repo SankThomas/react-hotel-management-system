@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from "react"
 import Navbar from "./Navbar"
 
@@ -19,18 +18,3 @@ const Header = () => {
 }
 
 export default Header
-=======
-import React from "react"
-
-const Header = () => {
-  return (
-    <>
-      <header>
-        <h1>HMS</h1>
-      </header>
-    </>
-  )
-}
-
-export default Header
->>>>>>> abbe3da91fc96de43745ce84cd0360c387c65395
